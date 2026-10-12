@@ -1,0 +1,16 @@
+%YAML:1.0
+Input Folder: "./Data/Tsukuba/"
+Disparity Levels: 16
+Update Schedule: 2
+Iterations: 40
+Gaussian Filter: 1
+Window Size: 1
+SGM Like: 0
+Smoothness Weight: 5
+Smoothness Threshold: 2
+SGM P1: 5
+SGM P2: 10
+Low Memory: 0
+Color Map: 0
+Motion: 0
+Previous Labels Cost: 0
